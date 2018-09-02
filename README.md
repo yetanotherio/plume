@@ -30,7 +30,7 @@ Plume combines a collection of C++ libraries into a single MapReduce framework. 
 
 ## Requirements
 
-- C++ 14.
+- C++ 14
 
 ## Installation
 
@@ -46,11 +46,10 @@ Plume is lightweight, useful to fly and close enough to Flume.
 
 Plume is heavily based on FlumeJava, a Java library for MapReduce tasks by Google. You can find more information in [this paper](https://ai.google/research/pubs/pub35650).
 
-
 ## Credits
 
-Plume is owned and maintained by [YAIO](https://github.com/yetanotherio), an engineering organization focused on building systems for fun. _YAIO is maintained by [Lucas Santos](https://github.com/lms11)_.
+Plume is owned and maintained by [YAIO](https://github.com/yetanotherio), an engineering organization focused on building systems for fun.
 
 ## License
 
-Alamofire is released under the GNU GPL v3 license. [See LICENSE](https://github.com/yaio/plume/blob/master/LICENSE) for details.
+Plume is released under the GNU GPL v3 license. [See LICENSE](https://github.com/yetanotherio/plume/blob/master/LICENSE) for details.
